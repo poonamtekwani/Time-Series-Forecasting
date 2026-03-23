@@ -16,7 +16,7 @@ Designed and implemented advanced time series forecasting models to analyze and 
 ## 📊 Dataset
 - Monthly wine sales data (1980–1995)  
 - Categories analyzed:
-  - Rosé Wine  
+  - Rose Wine  
   - Sparkling Wine  
 - ~187 time-series observations per dataset  
 
